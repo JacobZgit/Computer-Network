@@ -1,6 +1,6 @@
 分层：https://www.bilibili.com/video/BV1FY4y1B7YM?spm_id_from=333.999.0.0&vd_source=f2ffcefbfd8909705f0510388c7ceb0d
-1.应用层：http/https
-2.传输层：TCP/IP UDP
+1.应用层：http/https （用户访问资源的一种协议）
+2.传输层：TCP/IP UDP （基于http/https协议的URL可以生成TCP/IP中的报文）
 3.网络层：IP
 4.链路层：以太网（包括MAC地址等）
 5.物理层
