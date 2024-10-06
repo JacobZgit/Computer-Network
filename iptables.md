@@ -8,3 +8,5 @@ https://dunwu.github.io/linux-tutorial/linux/ops/iptables.html
 https://www.zsythink.net/archives/1199
 https://www.zsythink.net/archives/tag/iptables/
 https://www.zsythink.net/archives/1517
+
+报文的生存周期！！！A--->B就结束，B--->A又是B发起的新报文！
