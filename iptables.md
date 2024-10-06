@@ -10,3 +10,4 @@ https://www.zsythink.net/archives/tag/iptables/
 https://www.zsythink.net/archives/1517
 
 注意报文的生存周期！！！A--->B就结束，B--->A又是B发起的新报文！
+input的是上游主机生成的，output的是自己生成的！
